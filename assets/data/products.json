@@ -1,0 +1,91 @@
+{
+    "items":[
+  {
+      "id": 1,
+      "name": "Karmin",
+      "img": "assets/images/karmin.jpg",
+      "categoryId": 1,
+      "discount": true,
+      "price": {
+          "oldPrice": 2500.00,
+          "newPrice": 1800.00
+      }
+  },     
+  {
+      "id":2,
+      "name": "Maskara",
+      "img": "assets/images/maskara.jpg",
+      "categoryId": 1,
+      "discount": false,
+      "price": {
+          "oldPrice": 4350.00,
+          "newPrice": 4350.00
+      } 
+  },
+  {
+      "id": 3,
+      "name": "Mleko",
+      "img": "assets/images/mleko.jpg",
+      "categoryId": 2,
+      "discount": true,
+      "price": {
+          "oldPrice": 4500.00,
+          "newPrice": 3800.00
+      }
+  },
+  {
+      "id": 4,
+      "name": "Krema",
+      "img": "assets/images/krema.jpg",
+      "categoryId": 2,
+      "discount": true,
+      "price": {
+          "oldPrice": 600.00,
+          "newPrice": 450.00
+      }  
+  },
+  {
+    "id": 5,
+    "name": "Maska",
+    "img": "assets/images/maska.jpg",
+    "categoryId": 2,
+    "discount": false,
+    "price": {
+        "oldPrice": 700.00,
+        "newPrice": 0
+    }  
+},
+{
+  "id": 6,
+  "name": "Četkice",
+  "img": "assets/images/cetkice.jpg",
+  "categoryId": 1,
+  "discount": true,
+  "price": {
+      "oldPrice": 3000.00,
+      "newPrice": 1500.00
+  }  
+},
+{
+  "id": 7,
+  "name": "Kameni puder",
+  "img": "assets/images/kameniP.jpg",
+  "categoryId": 1,
+  "discount": true,
+  "price": {
+      "oldPrice": 2000.00,
+      "newPrice": 1750.00
+  }  
+},
+{
+  "id": 8,
+  "name": "Paleta",
+  "img": "assets/images/paleta.jpg",
+  "categoryId": 1,
+  "discount": true,
+  "price": {
+      "oldPrice": 4500.00,
+      "newPrice": 3500.00
+  }  
+}
+]}

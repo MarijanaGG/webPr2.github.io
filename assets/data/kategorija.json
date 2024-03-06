@@ -1,0 +1,11 @@
+{
+    "kategorije":[
+    {
+        "id": 1,
+        "naziv": "Šminka"
+    },
+    {
+        "id": 2,
+        "naziv": "Nega tela"
+    }
+]}

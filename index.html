@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta name="description" content="Online shop za kupovinu beauty proizvoda."/>
+	<meta name="author" content="Marijana Gajić"/>
+    <title>MProducts</title>
+    <link rel="stylesheet" href="assets/css/style.css" type="text/css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/material-design-iconic-font/2.2.0/css/material-design-iconic-font.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+
+</head>
+<body>
+    
+<!-- pocetak navbar -->
+    <nav class="navbar"> 
+        <div class="navbar-center">
+            <span class="nav-icon">
+                <button id="menu-btn"><i class="zmdi zmdi-menu"></i></button>
+                <ul class="mobile-menu" id="menuSmallScreen"></ul>
+            </span>
+			<span>
+				<a href="index.html">
+					<img src="assets/images/logo.png" alt="logo"/>
+				</a>
+			</span>
+			<span>
+			<ul class="menu-items" id="menuBigScreen"></ul>
+			</span>
+            
+            <div class="cart-btn" id="cart-btn">
+                <span class="nav-icon">
+                   <i class="zmdi zmdi-shopping-cart"></i> 
+                  
+                </span>
+                <div class="cart-items" id="cart-items">0</div>
+            </div>
+        </div>
+    </nav>
+<!-- kraj navbar -->
+
+
+<!-- pocetak cover -->
+    <header class="cover">
+        <div class="banner">
+            <h1 class="banner-title">Beauty products</h1>
+            <button class="banner-btn">shop now</button>
+        </div>
+    </header>
+<!-- kraj cover -->
+
+<div id="main" class="main"></div>
+
+<!-- korpa -->
+    <div class="cart-overlay" id="cart-overlay">
+        <div class="cart" id="cart">
+            <span class="close-cart" id="close-cart">
+                <i class="zmdi zmdi-close"></i>
+            </span>
+            <h2>Your cart</h2>
+            <div class='cart-content' id='cart-content'>
+			</div>
+        </div>
+    </div>
+<!-- kraj korpe -->
+
+
+<div id="footer">
+    
+</div>
+
+    <script src="assets/js/main.js"></script>
+</body>
+</html>

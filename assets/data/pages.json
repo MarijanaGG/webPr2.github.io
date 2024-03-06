@@ -1,0 +1,35 @@
+{
+    "pages": [
+      {
+        "id": "pocetna",
+        "className": "",
+		"header": "Dobrodošli!",
+		"content": "Dobrodošli na MProducts, vašu destinaciju za visokokvalitetnu šminku i kozmetiku! Naša strast je da vam pružimo najbolje proizvode za negu lica, tela i kose, uz naglasak na prirodne i organske sastojke. U našoj ponudi ćete pronaći širok izbor proizvoda za negu kože, uključujući hidratantne kreme, serum, tonere i maske. Također nudimo bogat asortiman šminke, od puderaste do tekuće, sa paletama senki i rumenila. Naš cilj je pružiti Vam kvalitetne proizvode po pristupačnim cenama, bez štednje na kvaliteti. Osim toga, naša stranica nudi pregledne informacije o svakom proizvodu, kako biste mogli doneti jednostavne odluke o svojoj kupovini. Hvala vam što ste odabrali MProducts, ako imate bilo kakvih pitanja ili povratnih informacija, slobodno nas kontaktirajte putem e-pošte ili društvenih mreža. Vaš MProducts tim."
+      },
+      {
+        "id": "about",
+        "className": "about",
+		"header": "O nama",
+		"content": "MProducts je online prodavnica koja se bavi prodajom kozmetičkih proizvoda. Osnovana je sa ciljem da klijentima pruži kvalitetne i visokokvalitetne proizvode za negu. Od samog početka, fokus nam je bio na tome da ponudimo prirodne i organske proizvode koji će na najbolji način zadovoljiti potrebe naših kupaca. Naša prodavnica se nalazi na internetu i dostupna je 24 sata dnevno, 7 dana u nedelji. Tako da možete kupiti sve što vam je potrebno kad god želite, iz udobnosti svog doma ili bilo kog drugog mesta. U MProducts prodavnici možete pronaći širok asortiman proizvoda, uključujući kreme, tonere, serum, maske i drugu kozmetiku za lice i telo, kao i širok izbor šminke. U slučaju da imate bilo kakvih pitanja, naš tim je uvek spreman da vam pruži pomoć i podršku. Naša vizija je da klijentima pružimo najbolju moguću uslugu i da budemo vaš prvi izbor kada je u pitanju kupovina kozmetičkih proizvoda. Zato se trudimo da ponudimo širok asortiman proizvoda i da budemo dostupni u svakom trenutku. Hvala Vam na poseti naše prodavnice i nadamo se da ćete uživati u kupovini kod nas."
+      },
+      {
+        "id": "products",
+        "className": "products",
+		"header": "Our Products",
+		"content": "Ovde možete izabrati proizvode:"
+      },
+      {
+        "id": "contact",
+        "className": "contact",
+		"header": "Contact",
+		"content": "Kontaktirajte nas!"
+      },
+	  {
+        "id": "author",
+        "className": "author",
+		"header": "Autor",
+		"content": "Moje ime je Marijana Gajić, dolazim iz Bajine Bašte, malog mesta iz zapadne Srbije. Trenutno sam studentkinja na Visokoj ICT školi u Beogradu, gde studiram na IT smeru. Pored fakultetskih obaveza, poseduje veliku strast prema dizajnu i pisanju, pa se bavim i ovim oblastima u slobodno vreme. Takođe, deo slobodnog vremena posvećujem volontiranju u organizaciji za zaštitu životinja. Za svoju predanost u studijama smatram i strasti prema kreativnom stvaranju i upornost koju posedujem.",
+   "image":"assets/images/autor.jpeg"
+      }
+    ]
+  }

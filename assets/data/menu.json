@@ -1,0 +1,24 @@
+{
+    "pages": [
+      {
+        "title": "Početna",
+        "page": "pocetna"
+      },
+      {
+        "title": "O nama",
+        "page": "about"
+      },
+	  {
+        "title": "Proizvodi",
+        "page": "products"
+      },
+      {
+        "title": "Kontakt",
+        "page": "contact"
+      },
+      {
+        "title": "Autor",
+        "page": "author"
+      }
+    ]
+  }
